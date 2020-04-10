@@ -27,4 +27,4 @@ ALTER DATABASE oozie SET standard_conforming_strings=off;
 EOD
 )
 
-echo ${SQL} | sudo -u postgres psql | tee -a postgres_.log
+echo ${SQL} | sudo -u postgres psql
