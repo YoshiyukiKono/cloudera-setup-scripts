@@ -1,0 +1,22 @@
+= cloudera-setup-scripts
+
+== Cloudera Manager
+
+== 1. set_cred.sh
+
+== 2. repo_reg.sh
+
+== 3. Database
+
+* psql_db_role_create.sh
+* psql_config.sh
+
+== 3.
+java_install.sh
+
+== Other Nodes
+
+* DB Client
+* Security
+* Java
+* 
