@@ -1,2 +1,4 @@
 *.log
 set_cred.sh
+my_cloudera_license.txt
+login*.sh
